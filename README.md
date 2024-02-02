@@ -8,3 +8,4 @@ From the [SkillFactory Data Science Course](https://skillfactory.ru/data-scienti
 * [Проект 2. Анализ вакансий из HeadHunter через SQL](https://github.com/anna-grigoryeva/data_science/blob/main/project_2.ipynb)
 * [Проект 3. Создание модели по предсказанию рейтинга отеля](https://github.com/anna-grigoryeva/data_science/blob/main/project_3.ipynb)
 * [Проект 4. Классификация: эффективность маркетинговой кампании](https://github.com/anna-grigoryeva/data_science/blob/main/project_4.ipynb)
+* [Проект 5. Регрессия: продолжительность поездки на такси](https://github.com/anna-grigoryeva/data_science/blob/main/project_5.ipynb)
